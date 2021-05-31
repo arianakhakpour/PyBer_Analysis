@@ -22,5 +22,5 @@ Total weekly fare trends were plotted for the first 4 months of 2019. This plot 
 
 
 ## Recommendations: 
-The service coverage/availability appears to be disproportionate in various regions. This can contribute to higher demand to supply ratio and drive up the fare. As a shortage of driver is observable in rural areas, it's recommended to assign more drivers to these regions in order to balance the supply and demand and to reduce the average cost per trip. 
+The service coverage/availability appears to be disproportionate in various regions. This can contribute to a higher demand to supply ratio and subsequently drive up the fare. As a shortage of driver is observable in rural areas (See [Summary DataFrame](https://user-images.githubusercontent.com/82549848/120165197-eda7a280-c1c0-11eb-8fca-62c071536d71.PNG)) , it's recommended to assign more drivers to these regions in order to balance the supply and demand and to reduce the average cost per trip. 
 
