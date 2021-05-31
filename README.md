@@ -22,6 +22,5 @@ Total weekly fare trends were plotted for the first 4 months of 2019. This plot 
 
 
 ## Recommendations: 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
+The service coverage/availability appears to be disproportionate in various regions. This can contribute to higher demand to supply ratio and drive up the fare. As a shortage of driver is observable in rural areas, it's recommended to assign more drivers to these regions in order to balance the supply and demand and to reduce the average cost per trip. 
 
